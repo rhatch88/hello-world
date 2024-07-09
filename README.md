@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+Hi! I'm Becca. I'm in the process of finishing my capstone project for the web dev pathway and I'm really looking forward to beginning the software development pathway. I'm always excited to pick up new skills, join fun projects, and meet a some awesome people on my way.
